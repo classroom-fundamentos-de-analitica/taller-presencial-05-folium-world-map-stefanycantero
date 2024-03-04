@@ -3,7 +3,7 @@
     {
       "name": "Test",
       "setup": "pip3 install folium pyarrow pandas matplotlib",
-      "run": "pythone test.py",
+      "run": "python test.py",
       "input": "",
       "output": "",
       "comparison": "exact",
